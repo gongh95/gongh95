@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gongh95
+- 👋 Hi, I’m Gonzalo Silvero @gongh95
 - 👀 I’m interested in learn WebDev, HTML, CSS, JS, PHP
 - 🌱 I’m currently learning JS and Phyton
 
