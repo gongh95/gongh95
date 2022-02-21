@@ -1,8 +1,24 @@
-- 👋 Hi, I’m Gonzalo Silvero @gongh95
-- 👀 I’m interested in learn WebDev, HTML, CSS, JS, PHP
-- 🌱 I’m currently learning JS and Phyton
+# Hi, I'm Gonzalo (@gongh95)
 
-<!---
-gongh95/gongh95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    Passionate of tech and hardware,
+    
+    I have knowledge in Web layout, styles in CSS and JS.
+    
+    I also have experience in repair, assembly and configuration of PCs,
+    
+    assembly of network cabling and installation of security cameras. 
+    
+        
+        
+
+## Contact
+
+[LinkedIn Profile](https://www.linkedin.com/in/gonzalo-silvero-a74901218/)
+
+or Mailme :)
+
+> gonzalo.simon.1995@gmail.com
+
+###
+
+*Gonzalo Silvero* | **@gongh95**
